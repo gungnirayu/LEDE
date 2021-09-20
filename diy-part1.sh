@@ -18,4 +18,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld'>>feeds.conf.defaul
 # Add a feed source
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
-git clone https://github.com/tty228/luci-app-serverchan.git
+# git clone https://github.com/tty228/luci-app-serverchan.git
